@@ -1,0 +1,6 @@
+Selection sort - best case :- O(N^2)
+                 Worst case:- O(N^2)
+Insertion sort - best case :- O(n)
+                 Worst case:- O(N^2)
+ I.e; 
+Insertion sort runs fast .
