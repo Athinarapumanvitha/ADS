@@ -1,6 +1,5 @@
- 1. E A S Y Q U E S T I O N
- 2. E A S Y Q U    E S T I O N
- 3. E A   S Y   Q U    E S    T I   O N
- 4. A E   S Y   U Q    E S    I T   N O
- 5. A E Q S U Y    E I N O S T
- 6. A E E I N O Q S T U Y
+1. Suppose that your application will have a huge number of insert operations, but only a few remove the maximum operations. Which priority-queue implementation do you think would be most effective: heap, unordered array, ordered array?
+
+Ans :
+
+Unordered array. Insert is constant time. 
